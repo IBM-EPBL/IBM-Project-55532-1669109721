@@ -1,0 +1,5 @@
+body {
+  background-color: rgb(179, 255, 0);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
